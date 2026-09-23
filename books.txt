@@ -5,3 +5,4 @@ availability: false
 Book: One Piece
 Author: Oda
 availability: true
+Book: Dune (added in feature-update)

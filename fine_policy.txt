@@ -1,0 +1,3 @@
+Fine: Rs 5 per day after due date
+Maximum fine is capped at book price
+Lost book: pay replacement cost

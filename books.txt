@@ -5,5 +5,3 @@ availability: false
 Book: One Piece
 Author: Oda
 availability: true
-Book: Wings of Fire (added in main)
-Book: Dune (added in feature-update)

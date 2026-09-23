@@ -1,2 +1,3 @@
 Reminder: return books within 14 days
 Reminder: SMS sent 2 days before due date
+Reminder: email sent on due date
